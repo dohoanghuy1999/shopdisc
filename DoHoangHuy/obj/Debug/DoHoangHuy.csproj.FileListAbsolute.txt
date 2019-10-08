@@ -69,4 +69,10 @@ C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\obj\Debug\DoHoangHuy.csproj.Co
 C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\obj\Debug\DoHoangHuy.csproj.CopyComplete
 C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\obj\Debug\DoHoangHuy.dll
 C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\obj\Debug\DoHoangHuy.pdb
-C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\obj\Debug\DoHoangHuy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\Microsoft.Build.Framework.dll
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\Microsoft.Build.Framework.pdb
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\Microsoft.Build.Framework.xml
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\DoHoangHuy\DoHoangHuy\bin\EntityFramework.SqlServer.xml

@@ -6,6 +6,8 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
+using DoHoangHuy.Models;
+using System.Data.Entity;
 
 namespace DoHoangHuy
 {
@@ -16,6 +18,9 @@ namespace DoHoangHuy
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            // Initialize the book database.
+            Database.SetInitializer(new DuLieuAlbum());
         }
     }
 }

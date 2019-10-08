@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <div>
-    <h3>Shop bán đĩa chất lượng,uy tín (Milk Shop).</h3>
+    <h3>Shop bán đĩa chất lượng,uy tín .</h3>
     <img src="img/10.jpg" />
     <address>
         SĐT: 0188088388<br />
