@@ -3,13 +3,14 @@
 <h2>+Hãy nhanh tay đăt mua những sản phẩm âm nhạc tuyệt vời của các idol mà bạn yêu mến nào<h2>
 <h3>~Giới thiệu về Shop:<h3><br>
 -Trang Chủ:<br>
-<img src="ShopDia/img/1.png" />
-<h3>giới thiệu về các thể loại âm nhạc của nhiều quốc gia:</h3>
-<img src="ShopDia/img/2.png" />
+<img src="anh1.jpg" />
+<h3>.Giới thiệu về các thể loại âm nhạc của nhiều quốc gia:</h3>
+<img src="anh2.jpg" />
 -Album:
-<h3>album shop các bán các loại đĩa DVD và đặt biệt các sản phẩm đĩa mới ra lò cũng được cập nhật nhanh chóng.</h3>
-<img src="ShopDia/img/3.png" />
-<h3>ngoài ra, còn ra mắt các ablum vừa mới phát hành và ưu tiên bản quyền chính hãng</h3>
+<h3>.Album shop các bán các loại đĩa DVD và đặt biệt các sản phẩm đĩa mới ra lò cũng được cập nhật nhanh chóng.</h3>
+<img src="anh3.jpg" />
+ <h1>Hướng Dẫn</h1>
+<h3>-Cách mua hàng tại Shop:</h3>
 <img src="ShopDia/img/4.png" />
 <br>
 <img src="ShopDia/img/5.png" />
