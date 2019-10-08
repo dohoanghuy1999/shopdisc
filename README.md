@@ -11,12 +11,15 @@
 <img src="anh3.jpg" />
  <h1>Hướng Dẫn</h1>
 <h3>-Cách mua hàng tại Shop:</h3>
-<img src="ShopDia/img/4.png" />
+ Các Bạn vào Album để chọn đĩa nhạc
+<img src="anh6.jpg" />
+ Khi lựa được đĩa ưa thích, bạn hãy chọn vào"Thêm vào giỏ hàng" sẽ ra như hình dưới:
+ <img src="anh7.jpg" />
 <br>
-<img src="ShopDia/img/5.png" />
+ Nếu bạn chọn nhầm đĩa thì có thể nhấp chuột vào dấu tick hủy hàng rồi nhấn vào nút update....
+<img src="anh8.jpg" />
+ ... sản phẩm sẽ được hủy và bạn có thể chọn sản phẩm ưng ý hơn.
 <br>
- <img src="ShopDia/img/6.png" />
- <br>
  <h1>-Thông tin liên hệ Shop:</h1>
- <img src="ShopDia/img/8.png" /><br>
+<img src="anh4.jpg" />
  <h1> Hãy ghé shop ủng hộ nhé!!!<3</h1>
