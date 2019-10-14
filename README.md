@@ -25,5 +25,5 @@
  <h1>Cơ sở dữ liệu:</h1>
 <img src="anhsql1.PNG" />
  <img src="anhsql2.PNG" />
- <img src="anhsql3.PNGg" />
+ <img src="anhsql3.PNG" />
  <h1> Hãy ghé shop ủng hộ nhé!!!<3</h1>
